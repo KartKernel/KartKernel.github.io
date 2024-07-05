@@ -1,0 +1,6 @@
+plugins:
+  - jekyll-sitemap
+  timezone: Asia/Kolkata
+  title: Karttikeya Veer Shahi
+  description: This is my portfolio page
+  author: Karttikeya
